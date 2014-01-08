@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorUi", "StringCalculatorUi.csproj", "{A531BDC3-694B-4543-8BAE-5F318207BAD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorUi", "StringCalculatorUi\StringCalculatorUi.csproj", "{A531BDC3-694B-4543-8BAE-5F318207BAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorCore", "..\StringCalculatorCore\StringCalculatorCore.csproj", "{25D883EB-D793-4FD0-BE07-F39F3B18C74E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorCore", "StringCalculatorCore\StringCalculatorCore.csproj", "{25D883EB-D793-4FD0-BE07-F39F3B18C74E}"
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
